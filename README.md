@@ -29,3 +29,5 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/ahmadfaozah/ahmadfaozah/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<!-- selamat menikmati -->
