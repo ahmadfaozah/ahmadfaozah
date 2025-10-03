@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h2 align="left">Play game with me</h2>
+###
+
+<img src="https://raw.githubusercontent.com/ahmadfaozah/ahmadfaozah/output/snake.svg" alt="Snake animation" />
+
+###
 
 ###
 
@@ -26,8 +31,5 @@ Here are some ideas to get you started:
 
 ###
 
-<img src="https://raw.githubusercontent.com/ahmadfaozah/ahmadfaozah/output/snake.svg" alt="Snake animation" />
-
-###
 
 <!-- selamat menikmati -->
