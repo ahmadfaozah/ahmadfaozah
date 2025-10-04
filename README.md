@@ -2,8 +2,9 @@
 
 ![Ahmad Faozah](img/github-header-banner.png)
 
+
 <!--
-**ahmadfaozah/ahmadfaozah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ahmadfaozah/ahmadfaozah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. saya masih pemula 
 -->
 
 ##### I learn languages ​​and tools
