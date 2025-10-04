@@ -22,7 +22,7 @@
 
 ##### click to connect with me
 
-![https://www.instagram.com/faozah_86_28?igsh=emY3ZjJjMXFnemh4](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)![https://www.linkedin.com/in/ahmad-faozah-7a4609373?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![https://www.instagram.com/faozah_86_28](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)![https://www.linkedin.com/in/ahmad-faozah](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 <!-- <img src="" />
 <img src="" /> -->
