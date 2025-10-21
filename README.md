@@ -36,7 +36,8 @@
 <img src="" /> -->
 
 ######
-<!-- <h5 align="left">Play game with me</h5>
+<!--
+<h5 align="left">Play game with me</h5>
 
 ###
 
@@ -48,4 +49,4 @@
 <!-- 
 <img src="https://raw.githubusercontent.com/ahmadfaozah/ahmadfaozah/output/snake.svg" alt="Snake animation" /> -->
 
- selamat menikmati -->
+ selamat menikmati-->
